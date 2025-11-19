@@ -30,7 +30,7 @@ function App() {
           />
 
           <h1 className="text-5xl md:text-6xl font-bold text-white text-center leading-tight">
-            Classement des Candidats
+            Classement de Candidats
           </h1>
         </div>
 
