@@ -24,13 +24,13 @@ function App() {
       <div className="relative z-10 container mx-auto px-4 py-12 max-w-5xl">
         <div className="flex flex-col items-center mb-12">
           <img
-            src="/public/logo.jpg"
+            src="tree/main/public/logo.jpg"
             alt="Logo"
             className="h-24 w-24 object-cover rounded-full border-4 border-white mb-8 shadow-xl"
           />
 
           <h1 className="text-5xl md:text-6xl font-bold text-white text-center leading-tight">
-            Classement de Candidats
+            Classement des Candidats
           </h1>
         </div>
 
