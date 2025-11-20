@@ -15,7 +15,7 @@ function App() {
       <div
         className="fixed inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1920)',
+          backgroundImage: 'url(https://drive.google.com/file/d/1945W8Sw0PMYxekwsix6KJEXNbKECpG95/view?usp=drivesdk)',
           zIndex: -2
         }}
       />
@@ -24,7 +24,7 @@ function App() {
       <div className="relative z-10 container mx-auto px-4 py-12 max-w-5xl">
         <div className="flex flex-col items-center mb-12">
           <img
-            src="./_images_/logo.jpg"
+            src="/logo.jpg"
             alt="Logo"
             className="h-24 w-24 object-cover rounded-full border-4 border-white mb-8 shadow-xl"
           />
